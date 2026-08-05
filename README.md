@@ -42,9 +42,9 @@ Third year Computer Science student at CSE, enjoy software development, building
 
 ### 📈 Contribution Graph
 
-<p align="center">
+<!-- <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=EricaMelodi&bg_color=00000000&color=db61a2&line=db61a2&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
-</p>
+</p> -->
 
 ---
 <p align="center"><i>⭐️ From <a href="https://github.com/EricaMelodi">EricaMelodi</a></i></p>
