@@ -39,5 +39,7 @@ Third year Computer Science student at CSE, enjoy software development, building
 <p align="center">
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=EricaMelodi&layout=compact&theme=tokyonight&title_color=db61a2&icon_color=db61a2&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
+
 ---
+
 <p align="center"><i>⭐️ From <a href="https://github.com/EricaMelodi">EricaMelodi</a></i></p>
